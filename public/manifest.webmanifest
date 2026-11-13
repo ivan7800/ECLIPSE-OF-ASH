@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Eclipse of Ash 404",
+  "short_name": "Eclipse 404",
+  "description": "Aventura HD-2D de fantasía oscura en Vaeloria.",
+  "lang": "es",
+  "scope": "./",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#12191b",
+  "theme_color": "#12191b",
+  "icons": [
+    {"src":"assets/eclipse-192.png","type":"image/png","sizes":"192x192","purpose":"any"},
+    {"src":"assets/eclipse-512.png","type":"image/png","sizes":"512x512","purpose":"any maskable"}
+  ]
+}

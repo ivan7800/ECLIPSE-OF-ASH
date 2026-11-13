@@ -1,0 +1,21 @@
+ECLIPSE OF ASH 404 · INICIO RÁPIDO
+
+WINDOWS
+1. Extrae la carpeta completa del ZIP.
+2. Instala Node.js 22 o posterior desde https://nodejs.org/ si no lo tienes.
+3. Haz doble clic en INICIAR-WINDOWS.bat.
+4. Se abrirá el navegador. Mantén la ventana de consola abierta mientras juegas.
+
+LINUX MINT
+1. Extrae la carpeta completa del ZIP.
+2. Instala Node.js 22 o posterior si no lo tienes.
+3. Haz doble clic en INICIAR-LINUX.desktop y permite su ejecución si el escritorio lo solicita.
+   Alternativamente, abre una terminal dentro de la carpeta y ejecuta: bash INICIAR-LINUX.sh
+4. Se abrirá el navegador. Mantén la terminal abierta mientras juegas.
+
+El ZIP incluye la compilación del juego. No hace falta ejecutar npm ni descargar paquetes para jugar.
+La primera compilación solo es necesaria si modificas el código fuente.
+
+El juego se abre en http://127.0.0.1:4040/ECLIPSE-OF-ASH-404/.
+Si el puerto está ocupado, cierra la otra ventana del juego.
+Para traer un guardado de un puerto anterior, expórtalo desde la sesión antigua e impórtalo en esta dirección.

@@ -1,0 +1,17 @@
+ECLIPSE OF ASH 404 · LINUX MINT
+
+JUEGO YA COMPILADO
+1. Extrae la carpeta completa del ZIP.
+2. Comprueba que tienes Node.js 22 o posterior.
+3. Haz clic derecho en start.sh, Propiedades, Permisos, Permitir ejecutar como programa.
+4. Doble clic y selecciona Ejecutar en un terminal.
+También puedes ejecutar bash launchers/linux-mint/start.sh desde la carpeta raíz.
+
+INSTALAR Y COMPILAR
+Ejecuta bash launchers/linux-mint/install.sh. Este paso instala las dependencias con npm ci y requiere Internet la primera vez. Después, inicia start.sh. El ZIP ya incluye dist/ para jugar sin compilar.
+
+LANZADOR DE ESCRITORIO
+Usa Eclipse-404.desktop, haz clic derecho y selecciona Permitir lanzar. Para instalar y compilar desde un lanzador, usa Instalar-y-ejecutar.desktop.
+
+REQUISITOS
+Node.js 22 o posterior. La primera compilación requiere Internet para descargar dependencias. Para jugar después se puede desconectar la red.

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Eclipse of Ash 404
+Comment=Aventura de fantasía oscura en Vaeloria
+Exec=python3 -c "import os,sys,urllib.parse,subprocess; p=sys.argv[1]; p=urllib.parse.unquote(urllib.parse.urlparse(p).path) if p.startswith('file:') else p; root=os.path.dirname(os.path.realpath(p)); subprocess.run(['bash',os.path.join(root,'launchers/linux-mint/start.sh')])" %k
+Icon=applications-games
+Terminal=true
+Categories=Game;AdventureGame;
+StartupNotify=true

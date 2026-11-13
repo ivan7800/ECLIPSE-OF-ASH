@@ -1,0 +1,8 @@
+ECLIPSE OF ASH 404 · WINDOWS
+
+1. Extrae la carpeta completa del ZIP.
+2. Instala Node.js 22 o posterior desde https://nodejs.org/.
+3. Haz doble clic en Iniciar-Eclipse.bat.
+4. Mantén la ventana abierta durante la partida. Ctrl+C la cierra.
+
+Instalar-y-ejecutar.bat compila e instala dependencias. Requiere conexión a Internet la primera vez. Si solo quieres jugar a dist, usa Iniciar-Eclipse.bat y no necesitas npm.
